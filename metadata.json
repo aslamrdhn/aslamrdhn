@@ -1,0 +1,6 @@
+{
+  "name": "LedgerLine by Aslam",
+  "description": "Sistem Kasir POS Premium & Manajemen Keuangan Kedai oleh PT Agora Ruang Semesta. Dilengkapi manajemen stok presisi, QRIS, penataan struk, dan pencadangan awan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
